@@ -1,6 +1,4 @@
-![Modal](https://modallauncher.com/assets/modal-wordmark.png)
-
-# Modal
+![Modal Launcher](https://modallauncher.com/assets/modal-wordmark.png?v=2)
 
 Modal is a free, open-source launcher for Minecraft: Java Edition, for Windows and Linux. It sets everything up for
 you: the right Java, the mod loader and the game files are fetched when you press Play. Mods, modpacks, resource packs,
@@ -17,13 +15,13 @@ shaders and worlds install from Modrinth and CurseForge into instances that each
 - **Your way**: Dark or Light, Lines or Cards layout, and 19 languages.
 - **Microsoft sign-in** with passkeys, 2FA and password managers; your tokens stay encrypted on your PC.
 
-Modal is out on 15 November 2026 at [modallauncher.com](https://modallauncher.com).
+Modal will be out on 15 November 2026 at [modallauncher.com](https://modallauncher.com).
 
 ## Installation
 
 **Windows**
 
-1. Download `ModalSetup.exe` and run it. It installs for your user only, so no admin rights are needed.
+1. You will have to download `ModalSetup.exe` and run it. It installs for your user only, so no admin rights are needed;
 2. Open Modal from the Start menu or the desktop shortcut, then sign in with the Microsoft account that owns Minecraft.
 
 Prefer not to install? Unzip `Modal-portable.zip` anywhere and run `Modal.exe`. To uninstall, use *Installed apps* in
@@ -36,8 +34,9 @@ Windows Settings.
 
 Modal's files aren't code-signed yet, so some antivirus apps may flag them. If yours does, restore the file and allow it.
 
----
+# Verification of the App
 
-Building from source, project layout and other developer notes: [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md).
+You will be able to verify that the release of the launcher match with the code of the repository by running our 
+`SHA-256-Checksum` which we will publish on the release day of Modal.
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
