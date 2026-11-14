@@ -15,7 +15,7 @@ shaders and worlds install from Modrinth and CurseForge into instances that each
 - **Your way**: Dark or Light, Lines or Cards layout, and 19 languages.
 - **Microsoft sign-in** with passkeys, 2FA and password managers; your tokens stay encrypted on your PC.
 
-Modal will be out on 15 November 2026 at [modallauncher.com](https://modallauncher.com).
+Modal will be out before November 20, 2026 at [modallauncher.com](https://modallauncher.com).
 
 ## Installation
 
